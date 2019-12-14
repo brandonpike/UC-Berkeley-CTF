@@ -2,7 +2,7 @@
 Capture the flag AI contest ~ http://ai.berkeley.edu/contest.html<br/>
 Our Agent: *akatsuki3.py*<br/>
 UC Berkeley Test Agent: *baselineTeam.py*<br/>
-akatsuki3 beats the test agent 92% of the time, and ties the other 8% of the time.<br/>
+**Our agent beats the test agent 100/100 games, although sometimes tieing on certain maps.**<br/>
 
 # Playing the Game (Requires Python 2.7)
  python capture.py -b baselineTeam.py -r akatsuki3.py
