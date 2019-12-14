@@ -1,4 +1,4 @@
-# UC-Berkely-CTF
+# UC-Berkeley-CTF
 Capture the flag AI contest ~ http://ai.berkeley.edu/contest.html<br/>
 Our Agent: *akatsuki3.py*<br/>
 UC Berkeley Test Agent: *baselineTeam.py*<br/>
