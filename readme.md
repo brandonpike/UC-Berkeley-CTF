@@ -7,7 +7,7 @@ UC Berkeley Test Agent: *baselineTeam.py*<br/>
 **Our agent beats the test agent 100/100 games, although sometimes tieing on certain maps.**<br/>
 
 # Contest Results
-![firstplace](firstplaceproof.png)
+![firstplace](fp.png)
 
 # Playing the Game (Requires Python 2.7)
 
